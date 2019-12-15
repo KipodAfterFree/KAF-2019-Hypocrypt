@@ -1,7 +1,4 @@
-import commands.Decrypt;
-import commands.Encrypt;
-import commands.Flag;
-import commands.Key;
+import commands.*;
 import org.quteshell.Quteshell;
 import org.quteshell.commands.Clear;
 import org.quteshell.commands.Echo;
@@ -48,6 +45,9 @@ public class Main {
         Quteshell.Configuration.Commands.add(Encrypt.class);
         Quteshell.Configuration.Commands.add(Decrypt.class);
         Quteshell.Configuration.Commands.add(Flag.class);
+        Quteshell.Configuration.Commands.add(EFWK.class);
+        Quteshell.Configuration.Commands.add(DFWK.class);
+
         Quteshell.Configuration.Commands.remove(Welcome.class);
         Quteshell.Configuration.Commands.remove(Echo.class);
         Quteshell.Configuration.Commands.remove(History.class);
