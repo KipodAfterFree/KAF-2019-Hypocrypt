@@ -12,8 +12,6 @@ Key bruteforce & reversal after knowing the expected output.
 
 ## Challenge solution
 
-Read the application JAR, get the secret key and path traverse.
-
 ## Building and installing
 
 [Clone](https://github.com/NadavTasher/2020-Hypocrypt/archive/master.zip) the repository, then type the following command to build the container:
