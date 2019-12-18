@@ -1,6 +1,6 @@
 # Hypocrypt
 
-Hypocrypt is an information security challenge in the Crypto category, and was presented to participants of [KAF Rolling](https://kaf.sh)
+Hypocrypt is an information security challenge in the Crypto category, and was presented to participants of [KAF CTF 2019](https://ctf.kipodafterfree.com)                       
 
 ## Challenge story
 
